@@ -1,0 +1,354 @@
+{
+  "events": [
+    {
+      "idEvent": "1001", "strEvent": "Manchester City vs Arsenal", "strSport": "Soccer",
+      "strLeague": "English Premier League", "strStatus": "In Progress", "intHomeScore": "2",
+      "intAwayScore": "1", "strHomeTeam": "Manchester City", "strAwayTeam": "Arsenal",
+      "strVenue": "Etihad Stadium", "strCity": "Manchester", "strCountry": "England",
+      "dateEvent": "2026-04-30", "strTime": "15:00:00", "idHomeTeam": "133615", "idAwayTeam": "133604"
+    },
+    {
+      "idEvent": "1002", "strEvent": "Real Madrid vs Barcelona", "strSport": "Soccer",
+      "strLeague": "Spanish La Liga", "strStatus": "In Progress", "intHomeScore": "1",
+      "intAwayScore": "1", "strHomeTeam": "Real Madrid", "strAwayTeam": "Barcelona",
+      "strVenue": "Santiago Bernabeu", "strCity": "Madrid", "strCountry": "Spain",
+      "dateEvent": "2026-04-30", "strTime": "20:00:00", "idHomeTeam": "133739", "idAwayTeam": "133600"
+    },
+    {
+      "idEvent": "1003", "strEvent": "Lakers vs Warriors", "strSport": "Basketball",
+      "strLeague": "NBA", "strStatus": "In Progress", "intHomeScore": "89",
+      "intAwayScore": "92", "strHomeTeam": "Los Angeles Lakers", "strAwayTeam": "Golden State Warriors",
+      "strVenue": "Crypto.com Arena", "strCity": "Los Angeles", "strCountry": "USA",
+      "dateEvent": "2026-04-30", "strTime": "19:30:00", "idHomeTeam": "134870", "idAwayTeam": "134875"
+    },
+    {
+      "idEvent": "1004", "strEvent": "New York Yankees vs Boston Red Sox", "strSport": "Baseball",
+      "strLeague": "MLB", "strStatus": "In Progress", "intHomeScore": "3",
+      "intAwayScore": "5", "strHomeTeam": "New York Yankees", "strAwayTeam": "Boston Red Sox",
+      "strVenue": "Yankee Stadium", "strCity": "New York", "strCountry": "USA",
+      "dateEvent": "2026-04-30", "strTime": "18:05:00", "idHomeTeam": "135269", "idAwayTeam": "135270"
+    },
+    {
+      "idEvent": "1005", "strEvent": "Chelsea vs Liverpool", "strSport": "Soccer",
+      "strLeague": "English Premier League", "strStatus": "Upcoming", "intHomeScore": null,
+      "intAwayScore": null, "strHomeTeam": "Chelsea", "strAwayTeam": "Liverpool",
+      "strVenue": "Stamford Bridge", "strCity": "London", "strCountry": "England",
+      "dateEvent": "2026-05-01", "strTime": "12:30:00", "idHomeTeam": "133612", "idAwayTeam": "133602"
+    },
+    {
+      "idEvent": "1006", "strEvent": "Bulls vs Celtics", "strSport": "Basketball",
+      "strLeague": "NBA", "strStatus": "In Progress", "intHomeScore": "76",
+      "intAwayScore": "71", "strHomeTeam": "Chicago Bulls", "strAwayTeam": "Boston Celtics",
+      "strVenue": "United Center", "strCity": "Chicago", "strCountry": "USA",
+      "dateEvent": "2026-04-30", "strTime": "20:00:00", "idHomeTeam": "134860", "idAwayTeam": "134857"
+    },
+    {
+      "idEvent": "1007", "strEvent": "Bayern Munich vs Borussia Dortmund", "strSport": "Soccer",
+      "strLeague": "German Bundesliga", "strStatus": "In Progress", "intHomeScore": "3",
+      "intAwayScore": "2", "strHomeTeam": "Bayern Munich", "strAwayTeam": "Borussia Dortmund",
+      "strVenue": "Allianz Arena", "strCity": "Munich", "strCountry": "Germany",
+      "dateEvent": "2026-04-30", "strTime": "18:30:00", "idHomeTeam": "133704", "idAwayTeam": "133706"
+    },
+    {
+      "idEvent": "1008", "strEvent": "PSG vs Lyon", "strSport": "Soccer",
+      "strLeague": "French Ligue 1", "strStatus": "Upcoming", "intHomeScore": null,
+      "intAwayScore": null, "strHomeTeam": "Paris Saint-Germain", "strAwayTeam": "Olympique Lyonnais",
+      "strVenue": "Parc des Princes", "strCity": "Paris", "strCountry": "France",
+      "dateEvent": "2026-05-01", "strTime": "21:00:00", "idHomeTeam": "133728", "idAwayTeam": "133722"
+    },
+    {
+      "idEvent": "1009", "strEvent": "Nets vs Heat", "strSport": "Basketball",
+      "strLeague": "NBA", "strStatus": "Final", "intHomeScore": "108",
+      "intAwayScore": "101", "strHomeTeam": "Brooklyn Nets", "strAwayTeam": "Miami Heat",
+      "strVenue": "Barclays Center", "strCity": "Brooklyn", "strCountry": "USA",
+      "dateEvent": "2026-04-29", "strTime": "20:30:00", "idHomeTeam": "134858", "idAwayTeam": "134868"
+    },
+    {
+      "idEvent": "1010", "strEvent": "Tottenham vs Manchester United", "strSport": "Soccer",
+      "strLeague": "English Premier League", "strStatus": "Final", "intHomeScore": "2",
+      "intAwayScore": "2", "strHomeTeam": "Tottenham Hotspur", "strAwayTeam": "Manchester United",
+      "strVenue": "Tottenham Hotspur Stadium", "strCity": "London", "strCountry": "England",
+      "dateEvent": "2026-04-29", "strTime": "17:30:00", "idHomeTeam": "133616", "idAwayTeam": "133616"
+    },
+    {
+      "idEvent": "1011", "strEvent": "Juventus vs AC Milan", "strSport": "Soccer",
+      "strLeague": "Italian Serie A", "strStatus": "In Progress", "intHomeScore": "1",
+      "intAwayScore": "0", "strHomeTeam": "Juventus", "strAwayTeam": "AC Milan",
+      "strVenue": "Allianz Stadium", "strCity": "Turin", "strCountry": "Italy",
+      "dateEvent": "2026-04-30", "strTime": "20:45:00", "idHomeTeam": "133747", "idAwayTeam": "133749"
+    },
+    {
+      "idEvent": "1012", "strEvent": "Clippers vs Nuggets", "strSport": "Basketball",
+      "strLeague": "NBA", "strStatus": "Upcoming", "intHomeScore": null,
+      "intAwayScore": null, "strHomeTeam": "LA Clippers", "strAwayTeam": "Denver Nuggets",
+      "strVenue": "Crypto.com Arena", "strCity": "Los Angeles", "strCountry": "USA",
+      "dateEvent": "2026-05-01", "strTime": "22:00:00", "idHomeTeam": "134871", "idAwayTeam": "134863"
+    },
+    {
+      "idEvent": "1013", "strEvent": "Chicago Cubs vs St. Louis Cardinals", "strSport": "Baseball",
+      "strLeague": "MLB", "strStatus": "In Progress", "intHomeScore": "4",
+      "intAwayScore": "4", "strHomeTeam": "Chicago Cubs", "strAwayTeam": "St. Louis Cardinals",
+      "strVenue": "Wrigley Field", "strCity": "Chicago", "strCountry": "USA",
+      "dateEvent": "2026-04-30", "strTime": "14:20:00", "idHomeTeam": "135256", "idAwayTeam": "135272"
+    },
+    {
+      "idEvent": "1014", "strEvent": "Atletico Madrid vs Sevilla", "strSport": "Soccer",
+      "strLeague": "Spanish La Liga", "strStatus": "Final", "intHomeScore": "1",
+      "intAwayScore": "0", "strHomeTeam": "Atletico Madrid", "strAwayTeam": "Sevilla",
+      "strVenue": "Wanda Metropolitano", "strCity": "Madrid", "strCountry": "Spain",
+      "dateEvent": "2026-04-29", "strTime": "16:15:00", "idHomeTeam": "133738", "idAwayTeam": "133744"
+    },
+    {
+      "idEvent": "1015", "strEvent": "Bucks vs 76ers", "strSport": "Basketball",
+      "strLeague": "NBA", "strStatus": "In Progress", "intHomeScore": "55",
+      "intAwayScore": "58", "strHomeTeam": "Milwaukee Bucks", "strAwayTeam": "Philadelphia 76ers",
+      "strVenue": "Fiserv Forum", "strCity": "Milwaukee", "strCountry": "USA",
+      "dateEvent": "2026-04-30", "strTime": "20:00:00", "idHomeTeam": "134872", "idAwayTeam": "134876"
+    },
+    {
+      "idEvent": "1016", "strEvent": "Inter Milan vs Napoli", "strSport": "Soccer",
+      "strLeague": "Italian Serie A", "strStatus": "Upcoming", "intHomeScore": null,
+      "intAwayScore": null, "strHomeTeam": "Inter Milan", "strAwayTeam": "Napoli",
+      "strVenue": "San Siro", "strCity": "Milan", "strCountry": "Italy",
+      "dateEvent": "2026-05-01", "strTime": "20:45:00", "idHomeTeam": "133748", "idAwayTeam": "133752"
+    },
+    {
+      "idEvent": "1017", "strEvent": "Houston Astros vs Los Angeles Dodgers", "strSport": "Baseball",
+      "strLeague": "MLB", "strStatus": "Final", "intHomeScore": "6",
+      "intAwayScore": "3", "strHomeTeam": "Houston Astros", "strAwayTeam": "Los Angeles Dodgers",
+      "strVenue": "Minute Maid Park", "strCity": "Houston", "strCountry": "USA",
+      "dateEvent": "2026-04-29", "strTime": "20:10:00", "idHomeTeam": "135260", "idAwayTeam": "135263"
+    },
+    {
+      "idEvent": "1018", "strEvent": "Borussia Dortmund vs RB Leipzig", "strSport": "Soccer",
+      "strLeague": "German Bundesliga", "strStatus": "In Progress", "intHomeScore": "2",
+      "intAwayScore": "1", "strHomeTeam": "Borussia Dortmund", "strAwayTeam": "RB Leipzig",
+      "strVenue": "Signal Iduna Park", "strCity": "Dortmund", "strCountry": "Germany",
+      "dateEvent": "2026-04-30", "strTime": "20:30:00", "idHomeTeam": "133706", "idAwayTeam": "133711"
+    },
+    {
+      "idEvent": "1019", "strEvent": "Suns vs Mavericks", "strSport": "Basketball",
+      "strLeague": "NBA", "strStatus": "Upcoming", "intHomeScore": null,
+      "intAwayScore": null, "strHomeTeam": "Phoenix Suns", "strAwayTeam": "Dallas Mavericks",
+      "strVenue": "Footprint Center", "strCity": "Phoenix", "strCountry": "USA",
+      "dateEvent": "2026-05-01", "strTime": "21:00:00", "idHomeTeam": "134877", "idAwayTeam": "134862"
+    },
+    {
+      "idEvent": "1020", "strEvent": "Valencia vs Villarreal", "strSport": "Soccer",
+      "strLeague": "Spanish La Liga", "strStatus": "In Progress", "intHomeScore": "0",
+      "intAwayScore": "2", "strHomeTeam": "Valencia", "strAwayTeam": "Villarreal",
+      "strVenue": "Mestalla", "strCity": "Valencia", "strCountry": "Spain",
+      "dateEvent": "2026-04-30", "strTime": "16:15:00", "idHomeTeam": "133743", "idAwayTeam": "133741"
+    },
+    {
+      "idEvent": "1021", "strEvent": "San Francisco Giants vs Seattle Mariners", "strSport": "Baseball",
+      "strLeague": "MLB", "strStatus": "In Progress", "intHomeScore": "2",
+      "intAwayScore": "7", "strHomeTeam": "San Francisco Giants", "strAwayTeam": "Seattle Mariners",
+      "strVenue": "Oracle Park", "strCity": "San Francisco", "strCountry": "USA",
+      "dateEvent": "2026-04-30", "strTime": "15:45:00", "idHomeTeam": "135271", "idAwayTeam": "135274"
+    },
+    {
+      "idEvent": "1022", "strEvent": "Lazio vs Roma", "strSport": "Soccer",
+      "strLeague": "Italian Serie A", "strStatus": "Final", "intHomeScore": "1",
+      "intAwayScore": "1", "strHomeTeam": "Lazio", "strAwayTeam": "AS Roma",
+      "strVenue": "Stadio Olimpico", "strCity": "Rome", "strCountry": "Italy",
+      "dateEvent": "2026-04-29", "strTime": "18:00:00", "idHomeTeam": "133750", "idAwayTeam": "133751"
+    },
+    {
+      "idEvent": "1023", "strEvent": "Celtics vs Raptors", "strSport": "Basketball",
+      "strLeague": "NBA", "strStatus": "Final", "intHomeScore": "121",
+      "intAwayScore": "98", "strHomeTeam": "Boston Celtics", "strAwayTeam": "Toronto Raptors",
+      "strVenue": "TD Garden", "strCity": "Boston", "strCountry": "USA",
+      "dateEvent": "2026-04-29", "strTime": "19:30:00", "idHomeTeam": "134857", "idAwayTeam": "134880"
+    },
+    {
+      "idEvent": "1024", "strEvent": "Marseille vs Monaco", "strSport": "Soccer",
+      "strLeague": "French Ligue 1", "strStatus": "In Progress", "intHomeScore": "1",
+      "intAwayScore": "1", "strHomeTeam": "Olympique de Marseille", "strAwayTeam": "AS Monaco",
+      "strVenue": "Stade Velodrome", "strCity": "Marseille", "strCountry": "France",
+      "dateEvent": "2026-04-30", "strTime": "17:05:00", "idHomeTeam": "133719", "idAwayTeam": "133727"
+    },
+    {
+      "idEvent": "1025", "strEvent": "Texas Rangers vs Toronto Blue Jays", "strSport": "Baseball",
+      "strLeague": "MLB", "strStatus": "Upcoming", "intHomeScore": null,
+      "intAwayScore": null, "strHomeTeam": "Texas Rangers", "strAwayTeam": "Toronto Blue Jays",
+      "strVenue": "Globe Life Field", "strCity": "Arlington", "strCountry": "USA",
+      "dateEvent": "2026-05-01", "strTime": "14:05:00", "idHomeTeam": "135276", "idAwayTeam": "135279"
+    },
+    {
+      "idEvent": "1026", "strEvent": "Everton vs West Ham", "strSport": "Soccer",
+      "strLeague": "English Premier League", "strStatus": "In Progress", "intHomeScore": "1",
+      "intAwayScore": "3", "strHomeTeam": "Everton", "strAwayTeam": "West Ham United",
+      "strVenue": "Goodison Park", "strCity": "Liverpool", "strCountry": "England",
+      "dateEvent": "2026-04-30", "strTime": "15:00:00", "idHomeTeam": "133619", "idAwayTeam": "133618"
+    },
+    {
+      "idEvent": "1027", "strEvent": "Bayer Leverkusen vs Wolfsburg", "strSport": "Soccer",
+      "strLeague": "German Bundesliga", "strStatus": "Final", "intHomeScore": "4",
+      "intAwayScore": "0", "strHomeTeam": "Bayer Leverkusen", "strAwayTeam": "VfL Wolfsburg",
+      "strVenue": "BayArena", "strCity": "Leverkusen", "strCountry": "Germany",
+      "dateEvent": "2026-04-29", "strTime": "15:30:00", "idHomeTeam": "133705", "idAwayTeam": "133709"
+    },
+    {
+      "idEvent": "1028", "strEvent": "Knicks vs Pacers", "strSport": "Basketball",
+      "strLeague": "NBA", "strStatus": "In Progress", "intHomeScore": "67",
+      "intAwayScore": "63", "strHomeTeam": "New York Knicks", "strAwayTeam": "Indiana Pacers",
+      "strVenue": "Madison Square Garden", "strCity": "New York", "strCountry": "USA",
+      "dateEvent": "2026-04-30", "strTime": "19:30:00", "idHomeTeam": "134874", "idAwayTeam": "134866"
+    },
+    {
+      "idEvent": "1029", "strEvent": "Atlanta Braves vs Philadelphia Phillies", "strSport": "Baseball",
+      "strLeague": "MLB", "strStatus": "In Progress", "intHomeScore": "1",
+      "intAwayScore": "0", "strHomeTeam": "Atlanta Braves", "strAwayTeam": "Philadelphia Phillies",
+      "strVenue": "Truist Park", "strCity": "Atlanta", "strCountry": "USA",
+      "dateEvent": "2026-04-30", "strTime": "13:10:00", "idHomeTeam": "135253", "idAwayTeam": "135268"
+    },
+    {
+      "idEvent": "1030", "strEvent": "Nice vs Rennes", "strSport": "Soccer",
+      "strLeague": "French Ligue 1", "strStatus": "Final", "intHomeScore": "2",
+      "intAwayScore": "0", "strHomeTeam": "OGC Nice", "strAwayTeam": "Stade Rennais",
+      "strVenue": "Allianz Riviera", "strCity": "Nice", "strCountry": "France",
+      "dateEvent": "2026-04-29", "strTime": "17:00:00", "idHomeTeam": "133726", "idAwayTeam": "133729"
+    },
+    {
+      "idEvent": "1031", "strEvent": "Fiorentina vs Atalanta", "strSport": "Soccer",
+      "strLeague": "Italian Serie A", "strStatus": "Upcoming", "intHomeScore": null,
+      "intAwayScore": null, "strHomeTeam": "Fiorentina", "strAwayTeam": "Atalanta",
+      "strVenue": "Stadio Artemio Franchi", "strCity": "Florence", "strCountry": "Italy",
+      "dateEvent": "2026-05-01", "strTime": "15:00:00", "idHomeTeam": "133745", "idAwayTeam": "133742"
+    },
+    {
+      "idEvent": "1032", "strEvent": "Heat vs Magic", "strSport": "Basketball",
+      "strLeague": "NBA", "strStatus": "Final", "intHomeScore": "99",
+      "intAwayScore": "88", "strHomeTeam": "Miami Heat", "strAwayTeam": "Orlando Magic",
+      "strVenue": "Kaseya Center", "strCity": "Miami", "strCountry": "USA",
+      "dateEvent": "2026-04-29", "strTime": "20:00:00", "idHomeTeam": "134868", "idAwayTeam": "134873"
+    },
+    {
+      "idEvent": "1033", "strEvent": "Minnesota Twins vs Detroit Tigers", "strSport": "Baseball",
+      "strLeague": "MLB", "strStatus": "Upcoming", "intHomeScore": null,
+      "intAwayScore": null, "strHomeTeam": "Minnesota Twins", "strAwayTeam": "Detroit Tigers",
+      "strVenue": "Target Field", "strCity": "Minneapolis", "strCountry": "USA",
+      "dateEvent": "2026-05-01", "strTime": "14:10:00", "idHomeTeam": "135265", "idAwayTeam": "135257"
+    },
+    {
+      "idEvent": "1034", "strEvent": "Schalke vs Eintracht Frankfurt", "strSport": "Soccer",
+      "strLeague": "German Bundesliga", "strStatus": "In Progress", "intHomeScore": "0",
+      "intAwayScore": "1", "strHomeTeam": "FC Schalke 04", "strAwayTeam": "Eintracht Frankfurt",
+      "strVenue": "Veltins-Arena", "strCity": "Gelsenkirchen", "strCountry": "Germany",
+      "dateEvent": "2026-04-30", "strTime": "15:30:00", "idHomeTeam": "133712", "idAwayTeam": "133707"
+    },
+    {
+      "idEvent": "1035", "strEvent": "Southampton vs Brentford", "strSport": "Soccer",
+      "strLeague": "English Premier League", "strStatus": "Final", "intHomeScore": "0",
+      "intAwayScore": "3", "strHomeTeam": "Southampton", "strAwayTeam": "Brentford",
+      "strVenue": "St. Mary's Stadium", "strCity": "Southampton", "strCountry": "England",
+      "dateEvent": "2026-04-29", "strTime": "15:00:00", "idHomeTeam": "133625", "idAwayTeam": "133629"
+    },
+    {
+      "idEvent": "1036", "strEvent": "Grizzlies vs Thunder", "strSport": "Basketball",
+      "strLeague": "NBA", "strStatus": "In Progress", "intHomeScore": "44",
+      "intAwayScore": "51", "strHomeTeam": "Memphis Grizzlies", "strAwayTeam": "Oklahoma City Thunder",
+      "strVenue": "FedExForum", "strCity": "Memphis", "strCountry": "USA",
+      "dateEvent": "2026-04-30", "strTime": "20:00:00", "idHomeTeam": "134869", "idAwayTeam": "134879"
+    },
+    {
+      "idEvent": "1037", "strEvent": "Kansas City Royals vs Cleveland Guardians", "strSport": "Baseball",
+      "strLeague": "MLB", "strStatus": "In Progress", "intHomeScore": "3",
+      "intAwayScore": "2", "strHomeTeam": "Kansas City Royals", "strAwayTeam": "Cleveland Guardians",
+      "strVenue": "Kauffman Stadium", "strCity": "Kansas City", "strCountry": "USA",
+      "dateEvent": "2026-04-30", "strTime": "14:10:00", "idHomeTeam": "135261", "idAwayTeam": "135255"
+    },
+    {
+      "idEvent": "1038", "strEvent": "Getafe vs Celta Vigo", "strSport": "Soccer",
+      "strLeague": "Spanish La Liga", "strStatus": "Final", "intHomeScore": "1",
+      "intAwayScore": "1", "strHomeTeam": "Getafe CF", "strAwayTeam": "RC Celta",
+      "strVenue": "Coliseum Alfonso Perez", "strCity": "Getafe", "strCountry": "Spain",
+      "dateEvent": "2026-04-29", "strTime": "14:00:00", "idHomeTeam": "133736", "idAwayTeam": "133733"
+    },
+    {
+      "idEvent": "1039", "strEvent": "Timberwolves vs Jazz", "strSport": "Basketball",
+      "strLeague": "NBA", "strStatus": "Final", "intHomeScore": "115",
+      "intAwayScore": "102", "strHomeTeam": "Minnesota Timberwolves", "strAwayTeam": "Utah Jazz",
+      "strVenue": "Target Center", "strCity": "Minneapolis", "strCountry": "USA",
+      "dateEvent": "2026-04-29", "strTime": "21:00:00", "idHomeTeam": "134870", "idAwayTeam": "134881"
+    },
+    {
+      "idEvent": "1040", "strEvent": "Nantes vs Lens", "strSport": "Soccer",
+      "strLeague": "French Ligue 1", "strStatus": "Upcoming", "intHomeScore": null,
+      "intAwayScore": null, "strHomeTeam": "FC Nantes", "strAwayTeam": "RC Lens",
+      "strVenue": "Stade de la Beaujoire", "strCity": "Nantes", "strCountry": "France",
+      "dateEvent": "2026-05-01", "strTime": "15:00:00", "idHomeTeam": "133723", "idAwayTeam": "133720"
+    },
+    {
+      "idEvent": "1041", "strEvent": "Wolves vs Aston Villa", "strSport": "Soccer",
+      "strLeague": "English Premier League", "strStatus": "In Progress", "intHomeScore": "2",
+      "intAwayScore": "1", "strHomeTeam": "Wolverhampton Wanderers", "strAwayTeam": "Aston Villa",
+      "strVenue": "Molineux Stadium", "strCity": "Wolverhampton", "strCountry": "England",
+      "dateEvent": "2026-04-30", "strTime": "15:00:00", "idHomeTeam": "133620", "idAwayTeam": "133605"
+    },
+    {
+      "idEvent": "1042", "strEvent": "Oakland Athletics vs Tampa Bay Rays", "strSport": "Baseball",
+      "strLeague": "MLB", "strStatus": "Final", "intHomeScore": "4",
+      "intAwayScore": "8", "strHomeTeam": "Oakland Athletics", "strAwayTeam": "Tampa Bay Rays",
+      "strVenue": "Oakland Coliseum", "strCity": "Oakland", "strCountry": "USA",
+      "dateEvent": "2026-04-29", "strTime": "13:07:00", "idHomeTeam": "135267", "idAwayTeam": "135275"
+    },
+    {
+      "idEvent": "1043", "strEvent": "Augsburg vs Stuttgart", "strSport": "Soccer",
+      "strLeague": "German Bundesliga", "strStatus": "Upcoming", "intHomeScore": null,
+      "intAwayScore": null, "strHomeTeam": "FC Augsburg", "strAwayTeam": "VfB Stuttgart",
+      "strVenue": "WWK Arena", "strCity": "Augsburg", "strCountry": "Germany",
+      "dateEvent": "2026-05-01", "strTime": "15:30:00", "idHomeTeam": "133700", "idAwayTeam": "133713"
+    },
+    {
+      "idEvent": "1044", "strEvent": "Pelican vs Kings", "strSport": "Basketball",
+      "strLeague": "NBA", "strStatus": "Upcoming", "intHomeScore": null,
+      "intAwayScore": null, "strHomeTeam": "New Orleans Pelicans", "strAwayTeam": "Sacramento Kings",
+      "strVenue": "Smoothie King Center", "strCity": "New Orleans", "strCountry": "USA",
+      "dateEvent": "2026-05-01", "strTime": "20:00:00", "idHomeTeam": "134873", "idAwayTeam": "134878"
+    },
+    {
+      "idEvent": "1045", "strEvent": "Torino vs Bologna", "strSport": "Soccer",
+      "strLeague": "Italian Serie A", "strStatus": "In Progress", "intHomeScore": "0",
+      "intAwayScore": "0", "strHomeTeam": "Torino FC", "strAwayTeam": "Bologna FC",
+      "strVenue": "Stadio Olimpico Grande Torino", "strCity": "Turin", "strCountry": "Italy",
+      "dateEvent": "2026-04-30", "strTime": "15:00:00", "idHomeTeam": "133755", "idAwayTeam": "133743"
+    },
+    {
+      "idEvent": "1046", "strEvent": "Strasbourg vs Bordeaux", "strSport": "Soccer",
+      "strLeague": "French Ligue 1", "strStatus": "Final", "intHomeScore": "2",
+      "intAwayScore": "3", "strHomeTeam": "RC Strasbourg", "strAwayTeam": "Girondins de Bordeaux",
+      "strVenue": "Stade de la Meinau", "strCity": "Strasbourg", "strCountry": "France",
+      "dateEvent": "2026-04-29", "strTime": "19:00:00", "idHomeTeam": "133730", "idAwayTeam": "133717"
+    },
+    {
+      "idEvent": "1047", "strEvent": "Colorado Rockies vs Arizona Diamondbacks", "strSport": "Baseball",
+      "strLeague": "MLB", "strStatus": "In Progress", "intHomeScore": "5",
+      "intAwayScore": "5", "strHomeTeam": "Colorado Rockies", "strAwayTeam": "Arizona Diamondbacks",
+      "strVenue": "Coors Field", "strCity": "Denver", "strCountry": "USA",
+      "dateEvent": "2026-04-30", "strTime": "20:10:00", "idHomeTeam": "135256", "idAwayTeam": "135252"
+    },
+    {
+      "idEvent": "1048", "strEvent": "Spurs vs Rockets", "strSport": "Basketball",
+      "strLeague": "NBA", "strStatus": "Final", "intHomeScore": "103",
+      "intAwayScore": "110", "strHomeTeam": "San Antonio Spurs", "strAwayTeam": "Houston Rockets",
+      "strVenue": "AT&T Center", "strCity": "San Antonio", "strCountry": "USA",
+      "dateEvent": "2026-04-29", "strTime": "20:30:00", "idHomeTeam": "134879", "idAwayTeam": "134864"
+    },
+    {
+      "idEvent": "1049", "strEvent": "Hertha Berlin vs Mainz", "strSport": "Soccer",
+      "strLeague": "German Bundesliga", "strStatus": "Final", "intHomeScore": "1",
+      "intAwayScore": "2", "strHomeTeam": "Hertha BSC", "strAwayTeam": "1. FSV Mainz 05",
+      "strVenue": "Olympiastadion", "strCity": "Berlin", "strCountry": "Germany",
+      "dateEvent": "2026-04-29", "strTime": "15:30:00", "idHomeTeam": "133708", "idAwayTeam": "133710"
+    },
+    {
+      "idEvent": "1050", "strEvent": "Crystal Palace vs Fulham", "strSport": "Soccer",
+      "strLeague": "English Premier League", "strStatus": "Upcoming", "intHomeScore": null,
+      "intAwayScore": null, "strHomeTeam": "Crystal Palace", "strAwayTeam": "Fulham",
+      "strVenue": "Selhurst Park", "strCity": "London", "strCountry": "England",
+      "dateEvent": "2026-05-01", "strTime": "15:00:00", "idHomeTeam": "133617", "idAwayTeam": "133621"
+    }
+  ]
+}
