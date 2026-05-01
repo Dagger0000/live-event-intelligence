@@ -215,11 +215,13 @@ Uses Open-Meteo API (free, no key required) to inject real venue weather conditi
 **Endpoint:** `GET /api/weather/{city}`
 
 **How to test:**
-```bash
-curl http://localhost:8000/api/weather/Manchester \
-  -H "Authorization: Bearer <token>"
-# Returns: { temperature_c, condition, wind_speed_kmh, prompt_injection }
+1. Open http://localhost:5173 and sign in
+2. Open browser DevTools (F12) → Console tab
+3. Paste:
+```javascript
+fetch('http://localhost:8000/api/weather/London',{headers:{Authorization:'Bearer '+localStorage.getItem('token')}}).then(r=>r.json()).then(console.log)
 ```
+4. You'll see live weather data for London injected into Gemini prompts
 
 The weather `prompt_injection` string is automatically included in Gemini analysis calls when the event city matches a known city in our coordinates lookup.
 
