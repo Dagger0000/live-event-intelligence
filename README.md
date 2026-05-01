@@ -177,10 +177,10 @@ Both clients receive identical real-time updates. On reconnect, the client recei
 **Screenshot of 2 simultaneous clients:**
 
 Tab 1:
-![WebSocket Client 1](docs/websocket-2clients.png)
+![WebSocket Client 1](docs/docswebsocket-2clients.png)
 
 Tab 2:
-![WebSocket Client 2](docs/websocket-2clients-2.png)
+![WebSocket Client 2](docs/ocswebsocket-2clients-2.png)
 
 ## Alert Rule Types
 
