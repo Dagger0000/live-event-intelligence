@@ -1,6 +1,6 @@
 # Live Event Intelligence Platform
 
-A production-grade real-time sports AI platform — Growth Vector AI Engineer Intern Assignment .
+A production-grade real-time sports AI platform.
 
 ## Architecture Overview
 
